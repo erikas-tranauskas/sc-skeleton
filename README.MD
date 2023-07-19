@@ -4,3 +4,4 @@ https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&vers
 
 - run "node compile" to compile the code
 - run "npm test" to run the tests
+- run node deploy to deploy the contract into testnet
